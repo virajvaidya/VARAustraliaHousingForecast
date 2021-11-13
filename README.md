@@ -1,4 +1,4 @@
-# Australia Housing Data Forecast - Structural Autoregressive Model
+# :house_with_garden: Australia Housing Data Forecast - Structural Autoregressive Model :chart_with_upwards_trend:
 
 This project was completed as a group project with Mr. John Dundas and Mr. Timothy Geary for the ECMT6003 Applied Business Forecasting Unit as part of my Master of Economics course at The University of Sydney.
 
