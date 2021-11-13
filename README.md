@@ -22,7 +22,7 @@ The model is a Structural Vector Autoregressive Model modelled with the followin
 |house_price_index | Real CPI House Price | Residential Property Price Index; Weighted average of eight capital cities | Index|
 |rrent              | Real CPI rents | Index Numbers; Rents; Australia |Index |
 |stock          | Housing stock |bHousing stock; Chain Volume Measures |AUD Thousands |
-|ur         | Unemplloyment Rate | Unemployment Rate; Persons | Percent |
+|ur         | Unemployment Rate | Unemployment Rate; Persons | Percent |
 |mr             | Variable Mortgage Rate |Lending rates; Housing Loans; Variable; Standard; Owner-Occupier | Percent    
 |wap            |Working Age Population | Civilian population aged 15 years and over; Persons | Thousands|
 |under          | Underemployment rate| Underemployment rate expressed as proprtion of Labour Force population; person | Percent
