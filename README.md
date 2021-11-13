@@ -25,7 +25,7 @@ The model is a Structural Vector Autoregressive Model modelled with the followin
 |ur         | Unemployment Rate | Unemployment Rate; Persons | Percent |
 |mr             | Variable Mortgage Rate |Lending rates; Housing Loans; Variable; Standard; Owner-Occupier | Percent    
 |wap            |Working Age Population | Civilian population aged 15 years and over; Persons | Thousands|
-|under          | Underemployment rate| Underemployment rate expressed as proprtion of Labour Force population; person | Percent
+|under          | Underemployment rate| Underemployment rate expressed as proportion of Labour Force population; Persons | Percent
 |gdp_aggregate_milaud  |Aggregate Gross Domestic Product | Aggregate GDP; Chain Volume Measures | AUD Millions |
 |gdp_per_capita       | Per capita Gross Domestic Product | gdp_aggregate_milaud divided by total population | AUD |
 
