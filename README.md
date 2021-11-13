@@ -36,6 +36,6 @@ The model computes a Vector Autoregressive forecast for the following 4 quarters
 
 
 
-The ForecastFile.ipynb file might have some issues loading on some devices due to it's size.
+The ForecastFile.ipynb file might have some issues loading on some devices due to its size.
 
-In such an instance, please click this link for an off-GitHub version of the Python code at https://colab.research.google.com/drive/15blME9jemV8DiQYXmJWgNDg-LwSWR7tA?usp=sharing
+In the event that this happens, please click this link for an off-GitHub version of the Python code at https://colab.research.google.com/drive/15blME9jemV8DiQYXmJWgNDg-LwSWR7tA?usp=sharing
