@@ -1,4 +1,4 @@
-# :house_with_garden: Australia Housing Data Forecast - Vector Autoregressive Model :chart_with_upwards_trend:
+# :house_with_garden: Australia Housing Data Forecast - Vector Autoregressive(1) Model :chart_with_upwards_trend:
 
 This project was completed as a group project with Mr. John Dundas and Mr. Timothy Geary for the ECMT6003 Applied Business Forecasting Unit as part of my Master of Economics program at The University of Sydney.
 
