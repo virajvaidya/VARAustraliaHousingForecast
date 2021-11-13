@@ -1,5 +1,3 @@
-![](https://github.com/virajvaidya/VARAustraliaHousingForecast/blob/main/Screenshot%202021-11-13%20at%206.28.38%20PM.png)
-
 # Australia Housing Data Forecast - Structural Autoregressive Model
 
 This project was completed as a group project with Mr. John Dundas and Mr. Timothy Geary for the ECMT6003 Applied Business Forecasting Unit as part of my Master of Economics course at The University of Sydney.
