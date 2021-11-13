@@ -2,7 +2,7 @@
 
 This project was completed as a group project with Mr. John Dundas and Mr. Timothy Geary for the ECMT6003 Applied Business Forecasting Unit as part of my Master of Economics program at The University of Sydney.
 
-The model is a Structural Vector Autoregressive Model modelled with the following twenty variables sourced from the Australian Burea of Statistics (ABS) and the Reserve Bank of Australia's Statistical Tables.
+The model is a Structural Vector Autoregressive Model modelled with the following twenty variables sourced from the Australian Bureau of Statistics (ABS) and the Reserve Bank of Australia's Statistical Tables.
 
 
 
