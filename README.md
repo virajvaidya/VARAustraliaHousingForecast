@@ -33,7 +33,7 @@ The data is quarterly - starting from March 1987 to December 2020, spanning the 
 The model computes a Vector Autoregressive forecast for the following 4 quarters, i.e. for the year 2021.
 
 
-
+Some limitations of this model to be kept in mind however; the model assumes all the variables specified above are exogenous, which is highly unlikely. There is a high chance that the model suffers from overfitting. 
 
 
 The ForecastFile.ipynb file might have some issues loading on some devices due to its size.
